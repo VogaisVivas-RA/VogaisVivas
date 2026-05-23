@@ -9,22 +9,34 @@ O **Vogais Vivas** é um ecossistema educacional imersivo em Realidade Aumentada
 Este projeto foi desenvolvido como parte integrante das atividades acadêmicas da disciplina **Optativa - Introdução a Sistemas Virtuais e Aumentados 2026/1** no curso de **Tecnologia em Sistemas para Internet (TSI)** do **Instituto Federal de Brasília (IFB) - Campus Brasília**.
 
 ### 👥 Desenvolvedores (Estudantes do IFB)
-* **Felipe Dias Santana** — *Estudante de Sistemas para Internet*
-* **Suellen Maciel Dutra** — *Estudante de Sistemas para Internet*
+* **Felipe Dias Santana** — *Estudante de Sistemas para Internet & Desenvolvedor Unity/C#*
+* **Suellen Maciel Dutra** — *Estudante de Sistemas para Internet & Pesquisadora/Desenvolvedora*
 
 ### 👨‍🏫 Orientação e Corpo Docente (IFB)
 * **Dr. Lázaro Vinícius de Oliveira Lima** — *Professor Orientador / IFB*
 * **Dra. Cristiane Jorge de Lima Bonfim** — *Professora Orientadora / IFB*
 
-### 🧪 Validação Pedagógica
+### 🧪 Validação Pedagógica e Prática
 * **Cecília Martins Costa** — *Pedagoga da Secretaria de Estado de Educação do Distrito Federal (SEEDF)*
-    * *Responsável pela validação metodológica.*
+    * *Responsável pela validação metodológica, adequação à BNCC e testes de usabilidade com o público-alvo infantil.*
+
+---
+
+## 📝 Publicações Científicas
+
+O referencial teórico, a metodologia e a estrutura deste ecossistema foram submetidos, aceitos e publicados formalmente:
+
+* **Trabalho:** Resumo Expandido
+* **Título Oficial:** *PROJETO VOGAIS VIVAS: APLICAÇÃO DE REALIDADE AUMENTADA MULTIMODAL PARA AUXÍLIO NA ALFABETIZAÇÃO INFANTIL*
+* **Evento:** III Simpósio de Integração, Inovação e Tecnologia (SIIT) - Instituto Federal de Brasília (IFB), 2026.
+* **Autores:** Suellen Maciel Dutra, Felipe Dias Santana, Lázaro Vinícius de Oliveira Lima, Cristiane Jorge de Lima Bonfim.
+* **Acesso ao documento:** O arquivo PDF completo do resumo aceito está disponível para consulta na pasta `docs/` deste repositório.
 
 ---
 
 ## 🎯 O Projeto
 
-O aplicativo utiliza a câmera do celular para leu cartões impressos das vogais (**A, E, I, O, U**). Ao reconhecer o marcador, o sistema projeta na tela da criança a respectiva letra em 3D, cercada por uma identidade visual *low-poly* colorida e animada. 
+O aplicativo utiliza a câmera do celular para ler cartões impressos das vogais (**A, E, I, O, U**). Ao reconhecer o marcador, o sistema projeta na tela da criança a respectiva letra em 3D, cercada por uma identidade visual *low-poly* colorida e animada. 
 
 Para reforçar o aprendizado, animais associados a cada vogal (como a **Ovelha**, o **Urso** e a **Iguana**) realizam órbitas dinâmicas ao redor da letra, interagindo através de animações de caminhada controladas em tempo real.
 
@@ -52,6 +64,7 @@ O ambiente de desenvolvimento foi projetado para garantir escalabilidade e consi
 * `/Assets`: Scripts C#, Modelos 3D, Controladores de Animação e Materiais.
 * `/Packages`: Dependências e o motor central do Vuforia Engine.
 * `/.gitattributes`: Configurações de filtros Git LFS para compressões pesadas (`*.tgz`).
+* `/docs`: Documentações do projeto e artigos científicos publicados.
 
 ---
 
