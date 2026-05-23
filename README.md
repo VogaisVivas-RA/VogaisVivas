@@ -30,7 +30,7 @@ O referencial teórico, a metodologia e a estrutura deste ecossistema foram subm
 * **Título Oficial:** *PROJETO VOGAIS VIVAS: APLICAÇÃO DE REALIDADE AUMENTADA MULTIMODAL PARA AUXÍLIO NA ALFABETIZAÇÃO INFANTIL*
 * **Evento:** III Simpósio de Integração, Inovação e Tecnologia (SIIT) - Instituto Federal de Brasília (IFB), 2026.
 * **Autores:** Suellen Maciel Dutra, Felipe Dias Santana, Lázaro Vinícius de Oliveira Lima, Cristiane Jorge de Lima Bonfim.
-* **Acesso ao documento:** O arquivo PDF completo do resumo aceito está disponível para consulta na pasta `docs/` deste repositório.
+* **Acesso ao documento:** O arquivo PDF completo do resumo aceito e o seu respectivo **Termo de Aceite** estão disponíveis para consulta na pasta `docs/` deste repositório.
 
 ---
 
