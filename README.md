@@ -16,9 +16,9 @@ Este projeto foi desenvolvido como parte integrante das atividades acadêmicas d
 * **Dr. Lázaro Vinícius de Oliveira Lima** — *Professor Orientador / IFB*
 * **Dra. Cristiane Jorge de Lima Bonfim** — *Professora Orientadora / IFB*
 
-### 🧪 Validação Pedagógica e Prática
+### 🧪 Validação Pedagógica
 * **Cecília Martins Costa** — *Pedagoga da Secretaria de Estado de Educação do Distrito Federal (SEEDF)*
-    * *Responsável pela validação metodológica, adequação à BNCC e testes de usabilidade com o público-alvo infantil.*
+    * *Responsável pela validação metodológica.*
 
 ---
 
