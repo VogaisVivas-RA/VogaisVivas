@@ -885,6 +885,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1750680699}
     m_Modifications:
+    - target: {fileID: 2281288283146410177, guid: e06b24e168ad74642b8b84ec6f5dfe60, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ffae63373a2e88d4595eca4fcc0a18e9, type: 2}
     - target: {fileID: 2939608979683680082, guid: e06b24e168ad74642b8b84ec6f5dfe60, type: 3}
       propertyPath: m_Name
       value: uppercase 0
@@ -1019,6 +1023,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7802777491255363333, guid: d135fde50f822134c803439f4638c911, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2dea3a0877bad81459630cbe996b0a59, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1316,6 +1324,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3259811236145909830, guid: 4fe75481f3dcee2408dc3d14d14015e8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51a3cfbff03eafb4c9c56bf857b7a129, type: 2}
     - target: {fileID: 6941266728677015175, guid: 4fe75481f3dcee2408dc3d14d14015e8, type: 3}
       propertyPath: m_Name
       value: uppercase I
@@ -1696,6 +1708,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4484666513360905943, guid: 6e54865565dcf4a4ca564f968d3606cc, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cbe526185da566a4a98596ea45d296a8, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1771,6 +1787,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2684571296175595629, guid: 3d392f981f88baf4ea7a2de4faf309f2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 23593e208927fac4a9e4e7905a6ea388, type: 2}
     - target: {fileID: 7604934345932083851, guid: 3d392f981f88baf4ea7a2de4faf309f2, type: 3}
       propertyPath: m_Name
       value: uppercase U
