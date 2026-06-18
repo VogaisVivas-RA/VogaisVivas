@@ -1,0 +1,9 @@
+Ativação do ambiente virtual: .venv\Scripts\activate
+
+Interface Web: python app.py
+
+Motor matemático: python mlp_experimentos.py
+
+Análise: python graficos_experimentos.py
+
+Gráficos de ativação: python graficos_ativacao.py
