@@ -38,13 +38,13 @@ public class GerenciadorMenu : MonoBehaviour
         if (painelInstrucoes != null) painelInstrucoes.SetActive(false); 
     }
 
-    // --- FUNÇÃO DO BOTÃO DE DOWNLOAD (Dentro das Instruções) ---
+ // --- FUNÇÃO DO BOTÃO DE DOWNLOAD (Dentro das Instruções) ---
     public void AbrirLinkMarcadores()
     {
-        // PASSO FUTURO: Substitua "COLE_O_SEU_ID_AQUI" pelo código real do PDF
-        string linkDownload = "https://drive.google.com/uc?export=download&id=COLE_O_SEU_ID_AQUI";
+        // Link direto do GitHub (Raw) que aponta para o repositório público do Vogais Vivas
+        string linkDownload = "https://raw.githubusercontent.com/FelipeDias77/VogaisVivas/main/Assets/Documentos/marcadores_vogais.pdf";
         
-        Debug.Log("Baixando PDF dos marcadores...");
+        Debug.Log("A descarregar o PDF dos marcadores diretamente do GitHub...");
         Application.OpenURL(linkDownload); 
     }
 
