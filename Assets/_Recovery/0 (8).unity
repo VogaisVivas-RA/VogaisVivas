@@ -964,7 +964,6 @@ GameObject:
   - component: {fileID: 244978955}
   - component: {fileID: 244978954}
   - component: {fileID: 244978953}
-  - component: {fileID: 244978956}
   m_Layer: 0
   m_Name: letra U
   m_TagString: Untagged
@@ -1090,7 +1089,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 244978956}
+  mPreview: {fileID: 0}
 --- !u!4 &244978955
 Transform:
   m_ObjectHideFlags: 0
@@ -1108,25 +1107,6 @@ Transform:
   - {fileID: 1697867343}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &244978956
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 244978951}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
-  mObserverBehaviour: {fileID: 244978954}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: letrau
-  mDatasetName: Vuforia/vogaisVivas.xml
-  mCastedBehaviour: {fileID: 244978954}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1 &249550184
 GameObject:
   m_ObjectHideFlags: 0
@@ -2305,7 +2285,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23, y: -2}
+  m_AnchoredPosition: {x: 14, y: -2}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &594311165
@@ -3556,7 +3536,6 @@ GameObject:
   - component: {fileID: 1270212775}
   - component: {fileID: 1270212774}
   - component: {fileID: 1270212773}
-  - component: {fileID: 1270212776}
   m_Layer: 0
   m_Name: letra E
   m_TagString: Untagged
@@ -3706,7 +3685,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1270212776}
+  mPreview: {fileID: 0}
 --- !u!4 &1270212775
 Transform:
   m_ObjectHideFlags: 0
@@ -3724,25 +3703,6 @@ Transform:
   - {fileID: 1325317261}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1270212776
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1270212772}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
-  mObserverBehaviour: {fileID: 1270212774}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: letrae
-  mDatasetName: Vuforia/vogaisVivas.xml
-  mCastedBehaviour: {fileID: 1270212774}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1 &1298555936
 GameObject:
   m_ObjectHideFlags: 0
@@ -3777,7 +3737,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 60, y: 305}
+  m_AnchoredPosition: {x: 75, y: 305}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1298555938
@@ -3802,8 +3762,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Encontre o marcador
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1c593dc0e34b7ee4c8449bba3a24e6e6, type: 2}
-  m_sharedMaterial: {fileID: 5379104379522677161, guid: 1c593dc0e34b7ee4c8449bba3a24e6e6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 73cfcf8ae2badd64ab36604bbb8ef4db, type: 2}
+  m_sharedMaterial: {fileID: 1192677414774454080, guid: 73cfcf8ae2badd64ab36604bbb8ef4db, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3827,13 +3787,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -4661,7 +4621,6 @@ GameObject:
   - component: {fileID: 1657705051}
   - component: {fileID: 1657705053}
   - component: {fileID: 1657705052}
-  - component: {fileID: 1657705054}
   m_Layer: 0
   m_Name: letra I
   m_TagString: Untagged
@@ -4804,26 +4763,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1657705054}
---- !u!114 &1657705054
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1657705050}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
-  mObserverBehaviour: {fileID: 1657705053}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: vogalI
-  mDatasetName: Vuforia/vogaisVivas.xml
-  mCastedBehaviour: {fileID: 1657705053}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
+  mPreview: {fileID: 0}
 --- !u!95 &1696026657 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 6517686061769116561, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
@@ -5176,7 +5116,6 @@ GameObject:
   - component: {fileID: 1750680699}
   - component: {fileID: 1750680698}
   - component: {fileID: 1750680697}
-  - component: {fileID: 1750680700}
   m_Layer: 0
   m_Name: letra O
   m_TagString: Untagged
@@ -5326,7 +5265,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1750680700}
+  mPreview: {fileID: 0}
 --- !u!4 &1750680699
 Transform:
   m_ObjectHideFlags: 0
@@ -5344,25 +5283,6 @@ Transform:
   - {fileID: 1152707157}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1750680700
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1750680696}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
-  mObserverBehaviour: {fileID: 1750680698}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: vogalO
-  mDatasetName: Vuforia/vogaisVivas.xml
-  mCastedBehaviour: {fileID: 1750680698}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1 &1756594309
 GameObject:
   m_ObjectHideFlags: 0
@@ -5374,7 +5294,6 @@ GameObject:
   - component: {fileID: 1756594312}
   - component: {fileID: 1756594311}
   - component: {fileID: 1756594310}
-  - component: {fileID: 1756594313}
   m_Layer: 0
   m_Name: letra A
   m_TagString: Untagged
@@ -5524,7 +5443,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1756594313}
+  mPreview: {fileID: 0}
 --- !u!4 &1756594312
 Transform:
   m_ObjectHideFlags: 0
@@ -5542,25 +5461,6 @@ Transform:
   - {fileID: 1478210401}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1756594313
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1756594309}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
-  mObserverBehaviour: {fileID: 1756594311}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: vogalA
-  mDatasetName: Vuforia/vogaisVivas.xml
-  mCastedBehaviour: {fileID: 1756594311}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1778704142
 PrefabInstance:
   m_ObjectHideFlags: 0
