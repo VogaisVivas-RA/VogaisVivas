@@ -776,7 +776,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4, y: 170}
+  m_AnchoredPosition: {x: -4, y: 100}
   m_SizeDelta: {x: 800, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &862626585
@@ -2580,8 +2580,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 130}
-  m_SizeDelta: {x: 1000, y: 650}
+  m_AnchoredPosition: {x: 50, y: 100}
+  m_SizeDelta: {x: 1330, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1923271408
 MonoBehaviour:
@@ -2603,11 +2603,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Como Jogar Vogais Vivas?\r\n\r\n    1. Toque no bot\xE3o abaixo para baixar
-    os marcadores m\xE1gicos.\n\n\r\n\r\n    2. Imprima as folhas (pode ser a preto
-    e branco).\r\n\r\n    3. Recorte os cart\xF5es das vogais.\r\n\r\n    4. Volte
-    ao menu principal e toque em APRENDER.\r\n\r\n    5. Aponte a c\xE2mara do telem\xF3vel
-    para os cart\xF5es e veja a magia acontecer!"
+  m_text: "Como utilizar o Vogais Vivas?\r\n\r\n    1. Toque no bot\xE3o abaixo para
+    baixar os marcadores m\xE1gicos.\n\n\r\n\r\n    2. Imprima as folhas (pode ser
+    na cor preta ou colorida).\r\n\r\n    3. Recorte os cart\xF5es das vogais.\r\n\r\n   
+    4. Volte ao menu principal e toque em APRENDER.\r\n\r\n    5. Aponte a c\xE2mera
+    do celular para os cart\xF5es e veja a magia acontecer!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6947e15c6cf3484198bf6fff9c6ab1b, type: 2}
   m_sharedMaterial: {fileID: -5414598223683884683, guid: c6947e15c6cf3484198bf6fff9c6ab1b, type: 2}
@@ -2634,8 +2634,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 43
+  m_fontSizeBase: 43
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2983,8 +2983,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 168}
-  m_SizeDelta: {x: 1100, y: 600}
+  m_AnchoredPosition: {x: 80, y: 190}
+  m_SizeDelta: {x: 1600, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2119540602
 MonoBehaviour:
@@ -3006,10 +3006,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "VOGAIS VIVAS \n\nDesenvolvedores:\nFelipe Dias Santana \nSuellen Maciel
-    Dutra\n\nProfessores Orientadores:\nDr. L\xE1zaro Vin\xEDcius de Oliveira Lima
-    \nDra. Cristiane Jorge de Lima Bonfim\n\nProfessora Especialista:\nCec\xEDlia
-    Martins Costa (SEEDF)\n\nInstituto Federal de Bras\xEDlia (IFB) \u2014 2026"
+  m_text: "Desenvolvedores:\nFelipe Dias Santana (TSI/CBRA/IFB) \nSuellen Maciel
+    Dutra (TSI/CBRA/IFB) \n\nProfessores Orientadores:\nDr. L\xE1zaro Vin\xEDcius
+    de Oliveira Lima (CBRA/IFB) \nDra. Cristiane Jorge de Lima Bonfim (CBRA/IFB)
+    \n\nProfessora Especialista:\nCec\xEDlia Martins Costa (ESCOLA CLASSE 39 DE CEIL\xC2NDIA
+    / SEEDF)\n\nInstituto Federal de Bras\xEDlia (IFB) \u2014 Campus Bras\xEDlia
+    - 2026"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6947e15c6cf3484198bf6fff9c6ab1b, type: 2}
   m_sharedMaterial: {fileID: -5414598223683884683, guid: c6947e15c6cf3484198bf6fff9c6ab1b, type: 2}
