@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="vogalI" size="0.100000 0.100000" />
+    <ImageTarget name="vogalO" size="0.100000 0.100000" />
+    <ImageTarget name="vogalA" size="0.100000 0.100000" />
+    <ImageTarget name="letrae" size="0.100000 0.100000" />
+    <ImageTarget name="letrau" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
