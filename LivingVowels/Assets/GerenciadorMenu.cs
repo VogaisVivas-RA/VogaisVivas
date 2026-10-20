@@ -42,7 +42,7 @@ public class GerenciadorMenu : MonoBehaviour
     public void AbrirLinkMarcadores()
     {
         // Link direto do GitHub (Raw) que aponta para o repositório público do Vogais Vivas
-        string linkDownload = "https://raw.githubusercontent.com/FelipeDias77/VogaisVivas/main/Assets/Documentos/marcadores_vogais.pdf";
+        string linkDownload = "https://github.com/VogaisVivas-RA/VogaisVivas/blob/main/LivingVowels/Assets/Documentos/marcadores_vogais.pdf";
         
         Debug.Log("A descarregar o PDF dos marcadores diretamente do GitHub...");
         Application.OpenURL(linkDownload); 
